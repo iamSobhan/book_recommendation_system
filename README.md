@@ -1,2 +1,2 @@
-Book Recommendation System 📗📘📙📚
+<b>Book Recommendation System</b> 📗📘📙📚
 
